@@ -30,4 +30,4 @@ export const GlobalStyle = createGlobalStyle`
       monospace;
   }
 `;
-export default GlobalStyle
+export default GlobalStyle;

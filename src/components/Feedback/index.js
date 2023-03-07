@@ -1,1 +1,1 @@
-export {FeedbackOptions} from "./Feedback"
+export { FeedbackOptions } from './Feedback';

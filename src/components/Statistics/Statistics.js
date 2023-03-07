@@ -1,12 +1,14 @@
 import PropTypes from 'prop-types';
 import { Notification } from 'components/Notification';
-import { StatisticsBox,
+import {
+  StatisticsBox,
   Title,
   StatList,
   StatGood,
   StatNeutral,
   StatBad,
-  StatTotal, } from './Statistics.styled';
+  StatTotal,
+} from './Statistics.styled';
 
 export const Statistics = ({
   good,
